@@ -1,0 +1,25 @@
+age = input("what is your age? ")
+
+if age < 0:
+    print("YoU dOnT ExIsT")
+
+if age >=1 and age <13:
+    print("You are a kid")
+
+if age >=13 and age <18:
+    print("You are a teenager")
+
+if age >= 18 and age <=40:
+    print("You are an adult")
+
+if age >40 and age <=60:
+    print("MIDLIFE CRISES")
+
+if age >60 and age <100:
+    print("your so old even your dentures are decaying")
+
+if age >=100 and age <150:
+    print("w-w-why are you alive")
+
+if age >150:
+    print("WHAT IN THE FLYING FART-")
